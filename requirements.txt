@@ -1,6 +1,6 @@
-streamlit>=1.29,<1.33
-numpy>=1.23,<1.25
-pandas>=2.0,<2.2
-scikit-learn>=1.2,<1.4
-matplotlib>=3.7,<3.9
-tensorflow-cpu>=2.14,<2.16
+streamlit
+numpy<1.25
+pandas
+scikit-learn
+matplotlib
+tensorflow-cpu
