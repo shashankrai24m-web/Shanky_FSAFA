@@ -6,7 +6,6 @@ from tensorflow.keras import layers, models
 from sklearn.preprocessing import QuantileTransformer
 import random
 import os
-import matplotlib.pyplot as plt
 
 # ==========================================
 # 1. CONFIGURATION & SEEDING
